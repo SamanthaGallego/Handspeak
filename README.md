@@ -1,4 +1,4 @@
-**HandSpeak - Real-Time Sign Language Communication with AI**
+# HandSpeak - Real-Time Sign Language Communication with AI
 
 HandSpeak is a revolutionary project aimed at breaking down communication barriers between people who use sign language and those who do not. It leverages cutting-edge technology and AI algorithms to translate sign language gestures in real-time, fostering inclusivity and equal opportunities in interactions.
 
